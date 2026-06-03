@@ -1,2 +1,14 @@
-# test-task-analysis
-Data analysis case study demonstrating SQL, Python, statistics, A/B testing, and ML evaluation skills. Includes step-by-step solutions, manual calculations, and interpretation of ROC-AUC, p-value, correlation, and hypothesis testing with business-oriented explanations.
+# Тестовое задание Junior Data Analyst
+
+## Решение
+
+📓 Jupyter Notebook:
+[test_task_analysis.ipynb](./test_task_analysis.ipynb)
+
+## Содержание
+
+- Теория вероятностей
+- Python
+- SQL
+- Статистика и A/B тесты
+- ML Base
